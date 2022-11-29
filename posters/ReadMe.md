@@ -1,1 +1,1 @@
-Click on a poster to view it, then on 'Raw' to download it.
+Click on a poster, and then on the 'Download' button (the github pdf viewer does not always work well).
